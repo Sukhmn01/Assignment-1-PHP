@@ -1,0 +1,7 @@
+<hr>
+<footer>
+    <p>&copy; 2025 Student Portal</p>
+</footer>
+</body>
+</html>
+
